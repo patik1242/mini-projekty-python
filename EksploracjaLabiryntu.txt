@@ -1,0 +1,3 @@
+Pozycja: (2, 2)
+ Ekwipunek: ['skarb']
+Punkty: 10
