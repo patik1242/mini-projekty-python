@@ -1,0 +1,5 @@
+Kurs: Python
+  - Anna Kowalska: [5]
+  - Jan Kowal: []
+Kurs: C++
+  - Jan Sikora: []

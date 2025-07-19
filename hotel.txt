@@ -1,0 +1,5 @@
+=== POKOJE ===
+-101: Jednoosobowy - zajęty
+-102: Jednoosobowy - zajęty
+-201: Dwuosobowy - wolny
+-202: Dwuosobowy - zajęty

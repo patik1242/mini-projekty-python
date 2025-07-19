@@ -1,0 +1,16 @@
+Pytanie: Jaki jest stolica Polski?Warszawa, 5
+Pytanie: Liczba dni w tygodniu?7, 10
+Pytanie: Jaki jest stolica Polski? - Warszawa, wynik = 5
+Pytanie: Liczba dni w tygodniu? - 7, wynik = 5
+Pytanie: Jaki jest stolica Polski? - Gniezno, wynik = 0
+Pytanie: Ile to 5 + 3? - 7, wynik = 0
+Pytanie: Liczba dni w tygodniu? - 7, wynik = 5
+Pytanie: Jaki jest stolica Polski? - Warszawa, wynik = 5
+Pytanie: Ile to 5 + 3? - 8, wynik = 5
+Pytanie: Ile to 5 + 3? - 8, wynik = 5
+Pytanie: Liczba dni w tygodniu? - 7, wynik = 10
+Pytanie: Kolor nieba w słoneczny dzień? - czerwony, wynik = 10
+Pytanie: Jaki język programowania tu ćwiczymy? - Python, wynik = 15
+Pytanie: Jaki jest stolica Polski? - Gniezno, wynik = 15
+Uzyskales: 15
+

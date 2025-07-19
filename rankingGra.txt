@@ -1,0 +1,4 @@
+Patrycja - wygral w walce z goblinem - hp: 61 Kasia - uciekla 
+Julia - wygral w walce z goblinem - hp: 43 
+Laura - wygral w walce z goblinem - hp: 58 
+Tomek - wygral w walce z goblinem - hp: 38 
